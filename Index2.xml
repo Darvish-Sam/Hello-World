@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="GitHub" fetch="https://github.com"/>
+
+  <default revision="refs/heads/master" remote="GitHub" sync-j="4"/>
+
+  <project name="Darvish-Sam/Hello-World" remote="GitHub" path="hello"/>
+  <project name="Darvish-Sam/starter-web" remote="Github" path="starter"/>
+  <project name="Darvish-Sam/Git-Training" remote="Github" path="training"/>
+ 
+</manifest>
