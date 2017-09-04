@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="GitHub" fetch="https://github.com"/>
+  <remote name="GitHub" fetch="https://github.com/"/>
 
   <default revision="refs/heads/master" remote="GitHub" sync-j="4"/>
 
